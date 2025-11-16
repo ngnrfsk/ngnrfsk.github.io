@@ -4,10 +4,8 @@ title: Tags
 subtitle: Browse articles by tag
 ---
 
-{% assign tags = site.tags | sort %}
-
 <div style="margin-bottom: 2rem;">
-    {% for tag in tags %}
+    {% for tag in site.tags %}
     <a href="#{{ tag[0] | slugify }}" class="tag" style="margin: 0.5rem;">
         {{ tag[0] }} ({{ tag[1].size }})
     </a>
@@ -15,7 +13,7 @@ subtitle: Browse articles by tag
 </div>
 
 <div class="archive-list">
-    {% for tag in tags %}
+    {% for tag in site.tags %}
     <div class="archive-item">
         <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
         <p style="color: var(--color-text-light); margin-bottom: 1rem;">

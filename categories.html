@@ -4,10 +4,8 @@ title: Categories
 subtitle: Browse articles by category
 ---
 
-{% assign categories = site.categories | sort %}
-
 <div class="archive-list">
-    {% for category in categories %}
+    {% for category in site.categories %}
     <div class="archive-item">
         <h2 id="{{ category[0] | slugify }}">{{ category[0] }}</h2>
         <p style="color: var(--color-text-light); margin-bottom: 1rem;">
