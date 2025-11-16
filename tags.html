@@ -1,0 +1,36 @@
+---
+layout: page
+title: Tags
+subtitle: Browse articles by tag
+---
+
+{% assign tags = site.tags | sort %}
+
+<div style="margin-bottom: 2rem;">
+    {% for tag in tags %}
+    <a href="#{{ tag[0] | slugify }}" class="tag" style="margin: 0.5rem;">
+        {{ tag[0] }} ({{ tag[1].size }})
+    </a>
+    {% endfor %}
+</div>
+
+<div class="archive-list">
+    {% for tag in tags %}
+    <div class="archive-item">
+        <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+        <p style="color: var(--color-text-light); margin-bottom: 1rem;">
+            {{ tag[1].size }} {% if tag[1].size == 1 %}article{% else %}articles{% endif %}
+        </p>
+        <ul style="list-style: none;">
+            {% for post in tag[1] %}
+            <li style="margin-bottom: 0.75rem;">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                <span style="color: var(--color-text-light); font-size: 0.875rem;">
+                    — {{ post.date | date: "%B %d, %Y" }}
+                </span>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endfor %}
+</div>
