@@ -1,35 +1,60 @@
 ---
 layout: page
 title: About Par Hill Research
-subtitle: Who we are and what we do
+subtitle: Air quality science, policy analysis and data science
 ---
 
-## Our Mission
+## Who We Are
 
-Par Hill Research is dedicated to exploring trends, innovations, and thought leadership in our field. We provide in-depth analysis, research insights, and expert commentary to help our audience stay informed and ahead of the curve.
+Par Hill Research is a boutique consultancy specialising in air quality science, policy analysis, and data science. We combine technical expertise with analytical rigour to deliver actionable insights for government, industry, and the public sector.
 
-## What We Do
+## Our Expertise
 
-We focus on delivering high-quality research and insights through:
+We provide comprehensive air quality analysis and strategic advisory services across multiple domains:
 
-- **In-depth Analysis**: Comprehensive research on emerging trends and technologies
-- **Thought Leadership**: Expert perspectives on industry developments
-- **Data-Driven Insights**: Evidence-based analysis and recommendations
-- **Industry Commentary**: Timely perspectives on current events and trends
+### Air Quality Analysis & Strategy
+- Boutique air quality analysis and assessment
+- Public realm analysis and planning
+- Air quality strategy development
+- Pollution data analysis and interpretation
+
+### Data Science & Technology
+- Advanced pollution data analysis
+- Air quality forecasting and modelling
+- Artificial intelligence applications
+- Infographics and data visualisation
+
+### Communications & Web Services
+- Technical communications and reporting
+- Web-based air quality services
+- Stakeholder engagement
+- Public information and outreach
+
+## Project Experience
+
+Our team has delivered high-impact projects for government and industry clients:
+
+### Policy & Strategic Analysis
+- **Central London Air Pollution Reduction**: Led multi-factor options analysis examining comprehensive strategies for reducing air pollution across Central London
+- **CHP Scenario Analysis**: Conducted detailed scenario analysis for combined heat and power deployment across London
+- **R&D Strategy Development**: Created research and development strategies for air quality improvement programmes
+
+### Government Enquiries & Expert Advice
+- **VW Emissions Investigation**: Led government enquiry into Volkswagen emissions scandal, providing technical expertise and policy recommendations
+- **Bus Retrofitting Programme**: Served as expert advisor to government on bus retrofitting enquiry, informing national policy decisions
+- **R&D Programme Leadership**: Directed major research and development programmes advancing air quality science and policy
 
 ## Our Approach
 
-At Par Hill Research, we believe in:
+At Par Hill Research, we deliver:
 
-- **Rigorous Research**: Thorough investigation and fact-based analysis
-- **Clear Communication**: Making complex topics accessible and actionable
-- **Independent Thinking**: Unbiased perspectives grounded in evidence
-- **Continuous Learning**: Staying current with the latest developments
+- **Evidence-Based Analysis**: Rigorous scientific methods and data-driven insights
+- **Policy Relevance**: Practical recommendations that inform real-world decisions
+- **Technical Excellence**: Deep expertise in air quality science and data analysis
+- **Clear Communication**: Complex analysis presented in accessible, actionable formats
 
 ## Get in Touch
 
-We'd love to hear from you. Whether you have questions, feedback, or collaboration opportunities, please [contact us](/contact/).
+We work with government agencies, local authorities, research institutions, and private sector clients. Whether you need strategic analysis, technical expertise, or data science capabilities, we'd be pleased to discuss how we can help.
 
----
-
-*This is a template page. Customize this content to reflect Par Hill Research's actual mission, values, and story.*
+[Contact us](/contact/) to explore collaboration opportunities.
