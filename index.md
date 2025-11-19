@@ -5,9 +5,9 @@ title: Home
 
 <section class="hero">
     <div class="container">
-        <h1 class="hero-title">Welcome to Par Hill Research</h1>
+        <h1 class="hero-title">Air Quality Science and Policy Analysis</h1>
         <p class="hero-subtitle">
-            Exploring trends, innovations, and thought leadership through research and insights
+            Turn air pollution science into policy action | Advising authorities and governments
         </p>
         <a href="{{ '/blog/' | relative_url }}" class="btn">Explore Our Blog</a>
     </div>
