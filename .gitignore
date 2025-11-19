@@ -24,3 +24,6 @@ Thumbs.db
 
 # Environment
 .env
+
+# Internal documentation (not for public site)
+SITE_MAP.md
